@@ -1,0 +1,1 @@
+This is a prototype autopilot software for the functions of a small drone. The sole purpose of this project is to understand he code sturcture for a autopilot software. Reccomended for study puposes only. 
